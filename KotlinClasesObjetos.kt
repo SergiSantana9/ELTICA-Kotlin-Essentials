@@ -12,6 +12,9 @@ fun main() {
         modelo = "Raval",
         capacidadBateria = 75.0
     )
+
+    // Tambien funcionaría así:
+    // val miCoche = CocheElectrico("CUPRA", "Raval", 75,5)
     
     val cocheEmpresa = CocheElectrico("SEAT", "Leon", 80.0)
     
