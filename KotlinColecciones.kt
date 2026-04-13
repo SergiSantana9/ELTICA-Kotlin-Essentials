@@ -61,9 +61,9 @@ fun main() {
     println("\n--- Especificaciones del vehículo ---")
     
     val especificaciones = mapOf(
-        "marca" to "Tesla",
-        "modelo" to "Model 3",
-        "año" to 2024,
+        "marca" to "CUPRA",
+        "modelo" to "Born",
+        "año" to 2025,
         "bateria" to "75 kWh",
         "autonomia" to "450 km"
     )
